@@ -24,9 +24,9 @@ Reference: [Terraform Registry](https://registry.terraform.io/)
 3. terraform apply
     > Perform the defined changes.
 4. terraform destroy
-    > Delete allthe created  resources.
+    > Delete all the created  resources.
 5. --auto-approve
-    > Don't prompt for confirmation.
+    > This option is use to disable the prompt for confirmation.
 6. terraform output
     > Display output variables and values.
 
