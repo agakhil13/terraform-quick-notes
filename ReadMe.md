@@ -28,6 +28,6 @@ Reference: [Terraform Registry](https://registry.terraform.io/)
 5. --auto-approve
     > This option is use to disable the confirmation prompt.
 6. terraform output
-    > Display output variables and values.
+    > Display output variable and value.
 
 
