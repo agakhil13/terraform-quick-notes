@@ -16,6 +16,18 @@ Reference: [Terraform Registry](https://registry.terraform.io/)
 4. provider.tf
     > Contains provider derfinition.
 
+#### Terraform Variables
+1. string
+    > a sequence of Unicode characters representing some text, like "hello".
+2. number 
+    > a numeric value. The number type can represent both whole numbers like 15 and fractional values like 6.283185.
+3. bool
+    > a boolean value, either true or false. bool values can be used in conditional logic.
+4. list (or tuple) 
+    > a sequence of values, like ["one", "two"]. Elements in a list or tuple are identified by consecutive whole numbers, starting with zero.
+5. map (or object)
+    > a group of values identified by named labels, like {name = "Mabel", age = 52}.
+
 #### Main commands:
 - init          
     > Prepare your working directory for other commands
