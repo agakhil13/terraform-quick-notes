@@ -1,0 +1,4 @@
+  Name is Anil.
+  Class is 2 and 3.
+  Color of Apple is Red.
+  Color of Mango is Yellow.
