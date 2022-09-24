@@ -29,6 +29,13 @@
 #### Specify explicit dependeny
 - `depends_on` - `depends_on = [(Resource type).(Resource name)]`
 
+#### Lifecycle block
+The arguments available within a `lifecycle` block are `create_before_destroy`, `prevent_destroy`, `ignore_changes`, and `replace_triggered_by`
+- `create_before_destroy` - bool
+- `prevent_destroy` - bool
+- `ignore_changes` - list of attribute names
+- `replace_triggered_by` - list of resource or attribute references
+
 #### Main commands:
 - `init` - Prepare your working directory for other commands
 - `validate` - Check whether the configuration is valid
