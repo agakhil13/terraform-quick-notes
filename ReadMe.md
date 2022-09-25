@@ -26,7 +26,7 @@
 > - Any *.auto.tfvars or *.auto.tfvars.json files, processed in lexical order of their filenames.
 > - Any -var and -var-file options on the command line, in the order they are provided. (This includes > variables set by a Terraform Cloud workspace.)
 
-#### Specify explicit dependeny
+#### Specify explicit dependency
 - `depends_on` - `depends_on = [(Resource type).(Resource name)]`
 
 #### Lifecycle block
