@@ -1,0 +1,1 @@
+This is the file name File2.txt and the path is D:/Akhil/terraform-quick-notes/terraform-for-each/File2.txt
