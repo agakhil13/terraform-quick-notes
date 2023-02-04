@@ -1,0 +1,1 @@
+This is the file name File3.txt and the path is C:/Users/agupt/OneDrive/Desktop/mywork/code/terraform-quick-notes/terraform-for-each/File3.txt
