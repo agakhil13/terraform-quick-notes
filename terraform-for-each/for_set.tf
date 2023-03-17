@@ -11,3 +11,7 @@ resource "local_file" "files" {
     content = each.value
   
 }
+
+output "file_name" {
+  value = [for s in local_file.files : s.filename]
+}
