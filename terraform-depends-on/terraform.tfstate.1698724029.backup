@@ -1,0 +1,29 @@
+{
+  "version": 4,
+  "terraform_version": "1.3.0",
+  "serial": 16,
+  "lineage": "989fab5d-d0aa-7a32-af33-774e51d1287a",
+  "outputs": {},
+  "resources": [
+    {
+      "mode": "managed",
+      "type": "random_pet",
+      "name": "pet1",
+      "provider": "provider[\"registry.terraform.io/hashicorp/random\"]",
+      "instances": [
+        {
+          "schema_version": 0,
+          "attributes": {
+            "id": "Mrs.subtly.deadly.prepared.flamingo",
+            "keepers": null,
+            "length": 4,
+            "prefix": "Mrs",
+            "separator": "."
+          },
+          "sensitive_attributes": []
+        }
+      ]
+    }
+  ],
+  "check_results": []
+}

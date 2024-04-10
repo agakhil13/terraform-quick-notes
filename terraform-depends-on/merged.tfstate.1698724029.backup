@@ -1,0 +1,36 @@
+{
+  "version": 4,
+  "terraform_version": "1.3.0",
+  "serial": 1,
+  "lineage": "b40a2749-4e56-8fc3-f77f-6cab560f28d8",
+  "outputs": {},
+  "resources": [
+    {
+      "mode": "managed",
+      "type": "local_file",
+      "name": "file1",
+      "provider": "provider[\"registry.terraform.io/hashicorp/local\"]",
+      "instances": [
+        {
+          "schema_version": 0,
+          "attributes": {
+            "content": "Mrs.subtly.deadly.prepared.flamingo",
+            "content_base64": null,
+            "directory_permission": "0777",
+            "file_permission": "0777",
+            "filename": "File1.txt",
+            "id": "ee893ec049a3d22de15a67092b701b52a4f1a351",
+            "sensitive_content": null,
+            "source": null
+          },
+          "sensitive_attributes": [],
+          "private": "bnVsbA==",
+          "dependencies": [
+            "random_pet.pet1"
+          ]
+        }
+      ]
+    }
+  ],
+  "check_results": null
+}

@@ -12,7 +12,7 @@ locals {
       role = pair[1]
     }]
   )
-  
+
 }
 # output "project_roles" {
 #   value = local.project_roles

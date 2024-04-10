@@ -1,1 +1,1 @@
-This is the file name File2.txt and the path is D:/Akhil/terraform-quick-notes/terraform-count/File2.txt
+This is the file name File2.txt and the path is C:/Users/agupt/OneDrive/Desktop/mywork/code/terraform-quick-notes/terraform-count/File2.txt
